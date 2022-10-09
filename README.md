@@ -5,7 +5,7 @@ A very basic calculator application created with Java **Swing**.
 
 ## Thank You!
 Please ⭐️ this repo and share it with others
-
+# This is created by Amit Kumar Srivastava
 ### Screenshots
 Scientific / Dark |  Standard / Colored
 :------------------:|:-------------------
